@@ -39,8 +39,8 @@ We have identified several challenges and implemented specific mitigations:
     * *Mitigation:* Utilize DistilBERT for better contextual understanding and manually review a sample of sarcastic comments.
 
 ## 📅 Project Milestones
-- [x] Project Proposal & Team Formation
-- [ ] Data Preprocessing & Exploratory Data Analysis (EDA)
-- [ ] Baseline Model Training (Traditional Classifiers)
-- [ ] Advanced Model Training (Transformers)
-- [ ] Final Evaluation & Visualization
+- [x] Milestone 0: Project Proposal & Team Formation
+- [ ] Milestone 1: Project Framing & Website Launch
+- [ ] Milestone 2: Data Preparation/Collection & Cleaning
+- [ ] Milestone 3: Model Implementation
+- [ ] Milestone 4: Conclusion, Results & Project Report
